@@ -47,4 +47,4 @@ Swift · SwiftUI · The Composable Architecture · MapKit · Core Location · Sw
 
 ## Status
 
-In active development as a portfolio project. Feedback is welcome through Issues.
+In testing, will be published by the end of this year.
